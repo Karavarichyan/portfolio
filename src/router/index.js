@@ -1,5 +1,7 @@
 import Contacts from "@/views/Contacts.vue";
 import Homepage from "@/views/Homepage.vue";
+import projects from "@/views/projects.vue";
+
 import { createRouter, createWebHistory } from "vue-router";
 
 const router = createRouter({
@@ -12,6 +14,10 @@ const router = createRouter({
     {
       path: "/contacts",
       component: Contacts,
+    },
+    {
+      path: "/projects",
+      component: projects,
     },
   ],
 });

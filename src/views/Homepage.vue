@@ -18,11 +18,11 @@
       <div class="container">
         <ul class="content-list">
           <li class="content-list__item">
-            <h2 class="title-2">Frontend</h2>
+            <h2 class="title-2">Front-end</h2>
             <p>JavaScript, TypeScript, ReactJS, HTML, CSS, BootStrap,</p>
           </li>
           <li class="content-list__item">
-            <h2 class="title-2">Backend</h2>
+            <h2 class="title-2">Backgiend</h2>
             <p>python, MySQL</p>
           </li>
         </ul>
